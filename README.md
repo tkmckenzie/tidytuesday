@@ -29,7 +29,36 @@ We welcome all newcomers, enthusiasts, and experts to participate, but be mindfu
 ***
 
 ## Submitting Datasets
-Want to submit an interesting dataset? Please open an [Issue](https://github.com/rfordatascience/tidytuesday/issues) and post a link to the article (or blogpost, etc) using the data, then we can discuss adding it to a future TidyTuesday Event!
+
+`TidyTuesday` is built around open datasets that are found in the "wild" or submitted as [Issues](https://github.com/rfordatascience/tidytuesday/issues) on our GitHub.
+
+If you find a dataset that you think would be interesting, you can approach it through two ways:
+
+## Two Ways to Contribute
+
+1. **Submit the dataset as an [Issue](https://github.com/rfordatascience/tidytuesday/issues)**  
+a. Find an interesting dataset  
+b. Find a report, blog post, article etc relevant to the data   
+c. Submit the dataset as an [Issue](https://github.com/rfordatascience/tidytuesday/issues) along with a link to the article  
+
+2. **Create an entire TidyTuesday challenge!**  
+a. Find an interesting dataset  
+b. Find a report, blog post, article etc relevant to the data (or create one yourself!)  
+c. Let us know you're found something interesting and are working on it by filing an [Issue](https://github.com/rfordatascience/tidytuesday/issues) on our GitHub  
+d. Provide a link or the raw data and a cleaning script for the data  
+e. Write a basic `readme.md` file using the minimal template below and make sure to give yourself credit! 
+
+#### `readme.md` template
+
+```
+# INPUT THE SUBJECT TITLE OF THE DATASET
+
+The data this week comes from [SOURCE_OF_DATA](URL_TO_DATA). 
+
+This [ARTICLE_SOURCE](LINK_TO_ARTICLE) talks about SUBJECT TITLE in greater detail.
+
+Credit: [YOUR NAME](Twitter handle or other social media profile)
+```
 
 ## Submitting Code Chunks
 Want to submit a useful code-chunk? Please submit as a [Pull Request](https://github.com/rfordatascience/tidytuesday/tree/master/community_resources/code_chunks) and follow the [guide](https://github.com/rfordatascience/tidytuesday/blob/master/community_resources/code_chunks/readme.md).
@@ -49,6 +78,9 @@ Want to submit a useful code-chunk? Please submit as a [Pull Request](https://gi
 | 6 | `2020-02-04` | [NFL Attendance](data/2020/2020-02-04/readme.md) | [Pro Football Reference](https://www.pro-football-reference.com/years/2002/index.htm) | [Casino.org](https://www.casino.org/record-and-attendance/) |
 | 7 | `2020-02-11` | [Hotel Bookings](data/2020/2020-02-11/readme.md) | [Antonio, Almeida, and Nunes, 2019](https://www.sciencedirect.com/science/article/pii/S2352340918315191#bib5) | [`tidyverts`](https://tsibble.tidyverts.org/) |
 | 8 | `2020-02-18` | [Food's Carbon Footprint](data/2020/2020-02-18/readme.md) | [nu3](https://www.nu3.de/blogs/nutrition/food-carbon-footprint-index-2018) | [`r-tastic` by Kasia Kulma](https://r-tastic.co.uk/post/from-messy-to-tidy/) |
+| 9 | `2020-02-25` | [Measles Vaccination](data/2020/2020-02-25/readme.md) | [The Wallstreet Journal](https://github.com/WSJ/measles-data) | [The Wall Street Journal](https://www.wsj.com/graphics/school-measles-rate-map/) |
+| 10 | `2020-03-03` | [NHL Goals](data/2020/2020-03-03/readme.md) | [HockeyReference.com](https://www.hockey-reference.com/leaders/goals_career.html) | [Washington Post](https://www.washingtonpost.com/graphics/2020/sports/capitals/ovechkin-700-goals/?utm_campaign=wp_graphics&utm_medium=social&utm_source=twitter)|
+| 11 | `2020-03-10` | [College Tuition, Diversity, and Pay](data/2020/2020-03-10/readme.md) | [TuitionTracker.org](https://www.tuitiontracker.org/) | [TuitionTracker.org](https://www.tuitiontracker.org/school.html?unitid=228778) |
 
 ***  
 
