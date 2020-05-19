@@ -81,6 +81,16 @@ Want to submit a useful code-chunk? Please submit as a [Pull Request](https://gi
 | 9 | `2020-02-25` | [Measles Vaccination](data/2020/2020-02-25/readme.md) | [The Wallstreet Journal](https://github.com/WSJ/measles-data) | [The Wall Street Journal](https://www.wsj.com/graphics/school-measles-rate-map/) |
 | 10 | `2020-03-03` | [NHL Goals](data/2020/2020-03-03/readme.md) | [HockeyReference.com](https://www.hockey-reference.com/leaders/goals_career.html) | [Washington Post](https://www.washingtonpost.com/graphics/2020/sports/capitals/ovechkin-700-goals/?utm_campaign=wp_graphics&utm_medium=social&utm_source=twitter)|
 | 11 | `2020-03-10` | [College Tuition, Diversity, and Pay](data/2020/2020-03-10/readme.md) | [TuitionTracker.org](https://www.tuitiontracker.org/) | [TuitionTracker.org](https://www.tuitiontracker.org/school.html?unitid=228778) |
+| 12 | `2020-03-17` | [The Office](data/2020/2020-03-17/readme.md) | [`schrute`](https://bradlindblad.github.io/schrute/index.html) | [The Pudding](https://pudding.cool/2017/08/the-office/) |
+| 13 | `2020-03-24` | [Traumatic Brain Injury](data/2020/2020-03-24/readme.md) | [CDC](https://www.cdc.gov/mmwr/volumes/68/wr/mm6810a1.htm) | [CDC Traumatic Brain Injury Report](https://www.cdc.gov/mmwr/volumes/68/wr/mm6810a1.htm) |
+| 14 | `2020-03-31` | [Beer Production](data/2020/2020-03-31/readme.md) | [TTB](https://www.ttb.gov/beer/statistics) | [Brewers Association](https://www.brewersassociation.org/insights/cans-bottles-craft-beer-packaging-trends/) |
+| 15 | `2020-04-07` | [Tour de France](data/2020/2020-04-07/readme.md) | [`tdf` package](https://github.com/alastairrushworth/tdf) | [Alastair Rushworth's blog](https://alastairrushworth.github.io/Visualising-Tour-de-France-data-in-R/) |
+| 16 | `2020-04-14` | [Best Rap Artists](data/2020/2020-04-14/readme.md) | [BBC Music](http://www.bbc.com/culture/story/20191007-the-greatest-hip-hop-songs-of-all-time-who-voted) | [Simon Jockers at Datawrapper](https://blog.datawrapper.de/best-hip-hop-songs-of-all-time-visualized/) |
+| 17 | `2020-04-21` | [GDPR Violation](data/2020/2020-04-21/readme.md) | [Privacy Affairs](https://www.privacyaffairs.com/gdpr-fines/) | [Roel Hogervorst](https://blog.rmhogervorst.nl/blog/2020/04/08/scraping-gdpr-fines/) |
+| 18 | `2020-04-28` | [Broadway Musicals](data/2020/2020-04-28/readme.md) | [Playbill](https://www.playbill.com/grosses) | [Alex Cookson](https://www.alexcookson.com/post/most-successful-broadway-show-of-all-time/) |
+| 19 | `2020-05-05` | [Animal Crossing](data/2020/2020-05-05/readme.md) | [Villager DB](https://github.com/jefflomacy/villagerdb) | [Polygon](https://www.polygon.com/2020/4/2/21201065/animal-crossing-new-horizons-calm-mindfulness-coronavirus-quarantine) |
+| 20 | `2020-05-12` | [Volcano Eruptions](data/2020/2020-05-12/readme.md) | [Smithsonian](https://www.himalayandatabase.com/) | [Axios](https://www.axios.com/chart-every-volcano-that-erupted-since-krakatoa-467da621-41ba-4efc-99c6-34ff3cb27709.html) & [Wikipedia](https://en.wikipedia.org/wiki/Volcano)|
+| 21 | `2020-05-19` | [Beach Volleyball](data/2020/2020-05-19/readme.md) | [BigTimeStats](https://bigtimestats.blog/data/) | [FiveThirtyEight](https://fivethirtyeight.com/features/serving-is-a-disadvantage-in-some-olympic-sports/) & [Wikipedia](https://en.wikipedia.org/wiki/Beach_volleyball#Skills)|
 
 ***  
 
